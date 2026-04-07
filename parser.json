@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "lang": "glimmer",
-  "location": null,
-  "max_version": null,
   "url": "https://github.com/ember-tooling/tree-sitter-glimmer",
-  "semver": false
+  "lang": "glimmer",
+  "semver": false,
+  "parser_version": "88af85568bde3b91acb5d4c352ed094d0c1f9d84",
+  "location": null
 }
